@@ -1,0 +1,280 @@
+
+body{
+	margin: 0;
+	padding:0;
+}
+.header{
+	width: 100%;
+	background-color: white;
+}
+.wrapper{
+overflow: hidden;
+margin:0 auto;
+width: 85%;
+/* border: 2px solid red; */
+}
+.logo{
+
+	width: 20%;
+	float: left;
+}
+.logo img{
+	padding: 0 0 0 100px;
+	float: left;
+	padding-top: 10px auto;
+}
+.menu{
+	padding: 2px 0 10px 50px;
+	transition: 2s;
+	width: 70%;
+	float: left;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+ul li:last child a{
+	padding-right: 0;
+
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: red;
+}
+/* header end */
+/* sevice start */
+.service{
+	width: 100%;
+	background-image: url(../img/banar1.png);
+}
+.banar{
+
+	
+	margin-top: 10%;
+	width:0 auto; 
+	padding: 0 0 0 40px;
+}
+h1{
+
+	font-size: 30px;
+	color: white;
+	margin: 0;
+	width: 50%;
+	padding-left: 80px;
+	
+}
+.go{
+	padding-left: 80px;
+	width: 50%;
+	margin: 0;
+	color:white;
+	/* padding-top: 30%; */
+	font-size: 30px;
+
+}
+p{
+	width: 50%;
+	color: white;
+	padding-left: 80px;
+}
+.z{
+  padding: 20px 0 70px 80px;
+}
+
+.button1 {
+	border:none;
+ font-size: 20px;
+ padding: 10px 10px 10px 10px;
+  background-color:#C92341; 
+  color: white; 
+  
+}
+
+/* end service */
+/* work start */
+
+.work{
+	width: 100%;
+	float: left;
+}
+ .work h2{
+   padding: 80px  0 0 40%; 
+	color: black;
+}
+ .work p{
+  padding: 0 0 0 30%;
+ 	color: grey; 
+
+}
+.images{
+	
+	width: 100%;
+	float: left;
+}
+.photo{
+	padding-top: 30px;
+	width: 30%;
+   padding-left: 20px; 
+	overflow: hidden;
+	float: left;
+
+}
+.photo img{
+	padding: 10px 10px 0 120px;
+	width: 30%;
+	float: left;
+}
+h3{ 
+	padding: 0 20px 0 100px;
+	overflow: hidden;
+	float: left;
+   color: black;
+ }
+ /* anotherone end */
+ /* ANOTHER START */
+ .we{
+ 	 padding-top: 10%; 
+ 	width: 100%;
+ 	float: left;
+ }
+ .so{
+ 	float: left;
+  width: 50%;
+ }
+ h2{
+ 	color:black;
+ 	padding:0 0 0 100px; 
+ 	float: left;
+ 	font-size:22px;
+ }
+ .so p{
+ 	margin-top: 0;
+ 	 padding:0 0 0 100px; 
+ 	color: black;
+ 	line-height: 30px;
+ 	font-size: 15px;
+ 	float: left;
+ 
+ }
+.but{
+ padding: 200px 200px 70px 100px;
+	}
+.button2 {
+	
+	border:none;
+  font-size: 15px;
+  padding: 10px 10px 10px 10px; 
+  background-color:#C92341; 
+  color: white; 
+   
+}
+.Kill{
+	
+	width: 50%;
+    /* overflow: hidden; */
+ 	float: left;
+}
+ .kill img{
+ 	padding: 0 0 0 100px;
+ 	overflow: hidden;
+    margin: 0 auto;
+	width: 30%;
+	float: left;
+}
+/* another end */
+/* FETURE START */
+
+}
+.feature{
+	width: 100%;
+	float: left;
+}
+.feature h3{
+	font-size: 20px;
+	text-align: center;
+	padding: 0 0 0px 500px; 
+	float: left;
+}
+.feature p{
+	margin-top: 0;
+	float: left;
+	color: grey;
+	padding: 0 0 0 300px;
+}
+/* feature end */
+.will{
+	padding: 100px 0 0 0;
+	width: 100%;
+	float: left;
+}
+.fill{
+	overflow: hidden;
+	width: 33%;
+	float: left;
+}
+.fill img{
+	padding:0 0 0 150px;
+	width: 50%;
+	float: left;
+}
+.does{
+	padding: 0 0 0 0;
+	width: 100%;
+	float: left;
+}
+.dill{
+	overflow: hidden;
+	width: 33%;
+	float: left;
+}
+.dill img{
+	padding:0 0 0 150px;
+	width: 60%;
+	float: left;
+}
+.zoo{
+  padding: 100px 0 100px 500px;
+}
+
+.button3 {
+border:none;
+ font-size: 17px;
+ background-color: #FFFFFF;
+ padding: 10px 10px 10px 10px;
+ color:#C92341; 
+  
+}
+.footer{
+	padding: 50px 0 0 0;
+	background-color:black;
+	width: 100%;
+	float: left;
+}
+.moon{
+	width: 33.33%;
+	overflow: hidden;
+	float: left;
+}
+.moon img{
+	width: 100%;
+	overflow: hidden;
+	float: left;
+}
+
+
+ 
